@@ -41,7 +41,7 @@ A modern, real-time order management platform built with Next.js 16, featuring a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nikhil012N/order-management-feature
 cd order-management-system
 ```
 
